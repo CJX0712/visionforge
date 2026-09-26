@@ -1,0 +1,7 @@
+# VisionForge 运行 + 测试 关键依赖（已锁定版本）
+numpy==2.5.3
+scipy==1.18.1
+pillow==12.3.0
+opencv-python==5.0.0.93
+scikit-image==0.26.0
+pytest==9.1.1
